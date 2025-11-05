@@ -1,5 +1,4 @@
-/* Name : Shreyas Suresh Shinde    PRN : 124B2F003
-
+/* Name : Aditya Petewar       PRN : 124B2F007
 Assignment No 6
 
 Scenario: Disaster Relief Resource Allocation 
